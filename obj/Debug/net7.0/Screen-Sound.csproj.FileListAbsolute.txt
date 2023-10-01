@@ -1,0 +1,14 @@
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\bin\Debug\net7.0\Screen-Sound.exe
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\bin\Debug\net7.0\Screen-Sound.deps.json
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\bin\Debug\net7.0\Screen-Sound.runtimeconfig.json
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\bin\Debug\net7.0\Screen-Sound.dll
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\bin\Debug\net7.0\Screen-Sound.pdb
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\obj\Debug\net7.0\Screen-Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\obj\Debug\net7.0\Screen-Sound.AssemblyInfoInputs.cache
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\obj\Debug\net7.0\Screen-Sound.AssemblyInfo.cs
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\obj\Debug\net7.0\Screen-Sound.csproj.CoreCompileInputs.cache
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\obj\Debug\net7.0\Screen-Sound.dll
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\obj\Debug\net7.0\refint\Screen-Sound.dll
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\obj\Debug\net7.0\Screen-Sound.pdb
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\obj\Debug\net7.0\Screen-Sound.genruntimeconfig.cache
+C:\Users\jpmme\OneDrive\Área de Trabalho\Screen-Sound\obj\Debug\net7.0\ref\Screen-Sound.dll
